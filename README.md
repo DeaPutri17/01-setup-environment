@@ -78,15 +78,15 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 2.	Buktikan dengan screenshoot yang menunjukkan bahwa masing-masing tools tersebut telah berhasil terinstall di perangkat Anda!
 -	Git
 
-    ![gambar1](/ss/git.png)
+    ![gambar1](/hello-world/ss/git.png)
 
 -	VS Code
  
-    ![gambar1](/ss/vscode.png)
+    ![gambar1](/hello-world/ss/vscode.png)
 
 -	NodeJS
 
-    ![gambar1](/ss/nodejs.png)
+    ![gambar1](/hello-world/ss/nodejs.png)
 
 ---
 
@@ -213,37 +213,37 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
     **npx create-next-app**
 
-    ![gambar1](/ss/step_prak2_a.png)    
+    ![gambar1](/hello-world/ss/step_prak2_a.png)    
 
     b.	Buat proyek baru dengan nama **hello-world** seperti di bawah ini. Nama proyek ini perlu dimasukkan pertama kali melalui konsol.
 
-    ![gambar1](/ss/step_prak2_b.png)
+    ![gambar1](/hello-world/ss/step_prak2_b.png)
 
     c.	Buka folder proyek **hello-world** menggunakan VS Code. Masuk ke dalam folder proyek hello-world dengan perintah:
 
     cd hello-world
 
-    ![gambar1](/ss/step_prak2_c1.png)
+    ![gambar1](/hello-world/ss/step_prak2_c1.png)
 
     Kemudian setelah masuk ke folder hello-world, masukkan perintah:
 
     code .
     
-    ![gambar1](/ss/step_prak2_c2.png)
+    ![gambar1](/hello-world/ss/step_prak2_c2.png)
 
     Maka VS Code akan membuka project react Anda yang telah dibuat bernama hello-world. Dan akan menampilkan struktur folder proyek seperti di bawah ini
 
-    ![gambar1](/ss/step_prak2_c3.png)
+    ![gambar1](/hello-world/ss/step_prak2_c3.png)
 
     d.	Running proyek hello-world dengan memasukkan perintah di bawah ini melalui konsol atau terminal di dalam VS Code.
 
     Npm run dev
 
-    ![gambar1](/ss/step_prak2_d.png)
+    ![gambar1](/hello-world/ss/step_prak2_d.png)
 
     Tunggu proses kompilasi hingga selesai. Lalu Anda dapat membuka alamat localhost di browser: http://localhost:3000/
 
-    ![gambar1](/ss/step_prak2_d2.png)
+    ![gambar1](/hello-world/ss/step_prak2_d2.png)
 
 ---
 
@@ -255,17 +255,17 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
     b.	Tambahkan fungsi MyButton yang mengembalikan markup komponen button yang akan ditambahkan ke dalam webpage
     
-    ![gambar1](/ss/step_prak3_b.png)
+    ![gambar1](/hello-world/ss/step_prak3_b.png)
 
     c.	Tambahkan komponen button tersebut di samping button Read Our Docs.
     
-    ![gambar1](/ss/step_prak3_c.png)
+    ![gambar1](/hello-world/ss/step_prak3_c.png)
 
     Perhatikan bahwa komponen **MyButton** dimulai dengan huruf kapital. Dengan cara itulah Anda mengetahui bahwa itu adalah sebuah komponen React. Nama **komponen React harus selalu dimulai dengan huruf kapital**, sedangkan tag HTML harus menggunakan huruf kecil. Kata kunci **export default** menentukan komponen utama di dalam berkas (file).
 
     d.	Simpan perubahan dan coba lihat perubahan melalui web browser!
     
-    ![gambar1](/ss/step_prak3_d.png)
+    ![gambar1](/hello-world/ss/step_prak3_d.png)
 
     Terdapat button “Buka Halaman” berwarna biru. Apabila di klik akan mengarah ke halaman http://localhost:3000/ di tab baru.
 
@@ -281,14 +281,14 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
     a.	Tambahkan kode JSX di bawah ini ke dalam file page.tsx
 
-    ![gambar1](/ss/step_prak4_a.png)
+    ![gambar1](/hello-world/ss/step_prak4_a.png)
 
     b.	Tambahkan komponen MyProfile setelah kompnen MyButton.
     
-    ![gambar1](/ss/step_prak4_b.png)
+    ![gambar1](/hello-world/ss/step_prak4_b.png)
 
     c.	Simpan dan amati perubahan di halaman web yang dihasilkan!
 
-    ![gambar1](/ss/step_prak4_c.png)
+    ![gambar1](/hello-world/ss/step_prak4_c.png)
 
     
