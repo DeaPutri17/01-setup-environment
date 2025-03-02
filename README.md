@@ -78,7 +78,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 2.	Buktikan dengan screenshoot yang menunjukkan bahwa masing-masing tools tersebut telah berhasil terinstall di perangkat Anda!
 -	Git
 
-    ![gambar1](/hello-world/ss/git.png)
+    ![gambar1](/ss/git.png)
 
 -	VS Code
  
